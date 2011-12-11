@@ -1,0 +1,135 @@
+
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #8A8985;
+}
+
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+	color: #810988;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 2.8em;
+}
+
+h3 {
+	font-size: 1.6em;
+}
+
+p, ul, ol {
+	margin-top: 0;
+	line-height: 180%;
+}
+
+ul, ol {
+}
+
+a {
+	text-decoration: none;
+	color: #CA4C44;
+}
+
+a:hover {
+}
+
+#wrapper {
+	margin: 0 auto;
+	padding: 0;
+}
+
+.container {
+	width: 1000px;
+	margin: 0px auto;
+}
+
+/* Logo */
+
+#main {
+
+	margin: 10px;
+	padding: 0;
+	color: #000000;
+   /* border-bottom: 1px dashed #eee; */
+}
+
+#main h1, #main p {
+}
+
+#main h1 {
+	padding: 0px 0px 0px 0px;
+	letter-spacing: -2px;
+	text-transform: lowercase;
+	font-size: 3.8em;
+	background: redc;
+}
+
+#main p {
+        display: inline;
+	margin-top: -10px;
+        margin-left: 5px;
+	padding: 0px 0 0 0px;
+	letter-spacing: -1px;
+	font: normal 18px Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+	color: #CCCCC4;
+} 
+
+#main p a {
+	color: #CCCCC4;
+}
+
+#main a {
+	border: none;
+	background: none;
+	text-decoration: none;
+	color: #E3564F;
+}
+
+pre {
+   padding: 0;
+   margin: 0;
+}
+
+#category {
+   margin: 10px;
+}
+
+#category .title {
+   margin-bottom: 5px;
+   padding: 7px 0px 0px 0px;
+   letter-spacing: -1px;
+   color: #7D7764;
+   border-bottom: 1px solid #eee;
+}
+
+#category p {
+   
+}
+
+#category ul {
+   margin: 0px;
+   padding-left: 20px;
+   list-style-type: circle;
+}
+
+#category ul li {
+   /* padding-top: 3px; */
+   /* padding-bottom: 3px; */
+}
